@@ -7,4 +7,4 @@ TODO: Agregar instrucciones de uso
 # Créditos
 TODO: Agregar autor(es)
 # Licencia
-TODO: Agregar licencia
+TODO: Agregar licencia.
